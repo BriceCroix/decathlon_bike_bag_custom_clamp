@@ -31,6 +31,9 @@ On the bag                    | Bag on the bike                | Bag on the bike
 - 4mm, 30mm long screws (diameter can be modified on the scad file).
 - Associated bolts with external diameter 8mm (diameter can be modified on the scad file).
 
+As I do not own a 3D printer myself, I used an online 3D-printing service such as [Treatstock](https://www.treatstock.com/) (not an affiliated link).
+I printed mine in flexible TPU. The flexibility allows not to break even with heavy-loaded bags.
+
 ## License
 
 I am not associated with Decathlon or any of its brands in any way.
